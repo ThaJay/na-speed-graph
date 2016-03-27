@@ -1,0 +1,809 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"content"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"get",
+				"getStyle"
+			],
+			[
+				"f",
+				"fieldNodes"
+			],
+			[
+				"R",
+				"React"
+			],
+			[
+				"b",
+				"boardNodes"
+			],
+			[
+				"ro",
+				"rowNodes"
+			],
+			[
+				"dr",
+				"drawBoard"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"se",
+				"selectedEventProducts"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"lis",
+				"listItem"
+			],
+			[
+				"is",
+				"isChecked"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"eve",
+				"eventProduct"
+			],
+			[
+				"C",
+				"Checkbox"
+			],
+			[
+				"pa",
+				"parseJson"
+			],
+			[
+				"ch",
+				"chosenEventId"
+			],
+			[
+				"e",
+				"eventId"
+			],
+			[
+				"st",
+				"storage"
+			],
+			[
+				"en",
+				"entityHandlers"
+			],
+			[
+				"gue",
+				"guestproducts"
+			],
+			[
+				"ent",
+				"entityHandlers"
+			],
+			[
+				"for",
+				"forceUpdate"
+			],
+			[
+				"stat",
+				"statusText"
+			],
+			[
+				"min",
+				"minHeight"
+			],
+			[
+				"mo",
+				"modelData"
+			],
+			[
+				"aut",
+				"authToken"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"a",
+				"ajax"
+			],
+			[
+				"ba",
+				"backButton"
+			],
+			[
+				"butt",
+				"buttonCount"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ti",
+				"ticketColor"
+			],
+			[
+				"tiu",
+				"ticketBackground"
+			],
+			[
+				"isV",
+				"isValidGuest"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"va",
+				"validity"
+			],
+			[
+				"sele",
+				"selectAllButton"
+			],
+			[
+				"ne",
+				"nextStatus"
+			],
+			[
+				"sty",
+				"styleSheet"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"vi",
+				"VisitorDetails"
+			],
+			[
+				"nex",
+				"nextStatus"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"sta",
+				"state	React: this.state"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"v",
+				"viewportWidth"
+			],
+			[
+				"fle",
+				"flexGrow"
+			],
+			[
+				"flex",
+				"flexDirection"
+			],
+			[
+				"fon-",
+				"font-weight"
+			],
+			[
+				"A",
+				"AutoField"
+			],
+			[
+				"B",
+				"BarcodeSerializer"
+			],
+			[
+				"In",
+				"IntegerField"
+			],
+			[
+				"pri",
+				"primary_key"
+			],
+			[
+				"guest",
+				"guestProduct"
+			],
+			[
+				"cns",
+				"console"
+			],
+			[
+				"mar",
+				"marginBottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"n",
+				"noButton"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Com",
+				"Component"
+			],
+			[
+				"bar",
+				"barcodeExists"
+			],
+			[
+				"sea",
+				"searchTerm"
+			],
+			[
+				"Sea",
+				"SearchResults"
+			],
+			[
+				"Re",
+				"ReactRouter"
+			],
+			[
+				"cr",
+				"createHashHistory"
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"init",
+				"initEvent"
+			],
+			[
+				"aja",
+				"ajaxURL"
+			],
+			[
+				"Se",
+				"Search"
+			],
+			[
+				"crea",
+				"createMemoryHistory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 283,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 530.0,
+		"last_filter": "menu",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 764.0
+	},
+	"console":
+	{
+		"height": 396.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Windows/system32/http",
+		"/C/dev/scan-app/src/visitors.js",
+		"/C/dev/nac-game/package.json",
+		"/C/dev/scan-app/src/main.js",
+		"/C/dev/scan-app/scan-app-core/components/subcomponents/checkbox.js",
+		"/C/dev/scan-app/scan-app-core/components/subcomponents/loading.js",
+		"/C/dev/nac-game/src/game.js",
+		"/C/dev/nac-game/src/test.js",
+		"/C/dev/nac-game/build/nodetest.js",
+		"/C/dev/scan-app/package.json",
+		"/C/dev/nac-game/webpack.config.js",
+		"/C/dev/nac-game/build/app.js",
+		"/C/dev/nac-game/test.js",
+		"/C/dev/nac-game/app.js",
+		"/C/dev/nac-game/.git/config",
+		"/C/dev/nac-game/.gitignore",
+		"/C/dev/nac-game/nac-game.sublime-project",
+		"/C/dev/react-webpack-boilerplate/react-webpack-boilerplate.sublime-project",
+		"/C/Users/DJ/.ssh/id_rsa_public_key",
+		"/C/Users/DJ/.gitconfig",
+		"/C/dev/nac-game/build/.gitignore",
+		"/C/dev/nac-game/build/game.js",
+		"/C/dev/scan-app/.gitignore",
+		"/C/dev/noughts-and-crosses/webpack.config.js",
+		"/C/dev/noughts-and-crosses/package.json",
+		"/C/dev/scan-app/webpack.config.js",
+		"/C/dev/noughts and crosses/noughts-and-crosses.sublime-project",
+		"/C/dev/noughts and crosses/build/game.js",
+		"/C/dev/noughts and crosses/build/index.htm",
+		"/C/dev/scan-app/scan-app.sublime-workspace",
+		"/C/dev/noughts and crosses/build/index.html",
+		"/C/Users/DJ/Documents/Euro Truck Simulator 2/profiles/4461766569677573/save/autosave/game.sii",
+		"/G/ets2 save decrypter/game.sii",
+		"/C/dev/scan-app/scan-app-core/components/search.js",
+		"/C/dev/scan-app/scan-app-core/components/login.js",
+		"/C/dev/scan-app/scan-app-core/helpers/_collections.js",
+		"/C/dev/scan-app/scan-app-core/components/details.js",
+		"/C/dev/scan-app/scan-app-core/helpers/_storage.js",
+		"/C/dev/scan-app/scan-app-core/helpers/_db.js",
+		"/C/dev/scan-app/scan-app-core/helpers/_ajax.js",
+		"/C/dev/scan-app/scan-app-core/helpers/_websockets.js",
+		"/C/Users/DJ/.bashrc",
+		"/C/Users/DJ/.ssh/known_hosts",
+		"/C/dev/scan-app/scan-app.sublime-project",
+		"/C/dev/scan-app/css/basics.scss",
+		"/C/dev/scan-app/scan-app-core/helpers/_settings.js",
+		"/C/dev/scan-app/scan-app-core/helpers/_search-visitors.js",
+		"/C/dev/scan-app/scan-app-core/_helpers.js",
+		"/C/dev/scan-app/dev/deps note.txt",
+		"/C/dev/scan-app/css/_itp_base.scss",
+		"/C/dev/scan-app/css/_font-awesome.scss",
+		"/C/Users/Dirk-/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Dirk-/Desktop/saved-searches.js",
+		"/C/dev/scan-app/scan-app-core/components/settings.js",
+		"/C/Users/Dirk-/.gitconfig",
+		"/C/Users/Dirk-/.gitignore_global",
+		"/C/Users/Dirk-/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/dev/scan-app/dev/flexBoxNotitie.css",
+		"/C/Users/Dirk-/Desktop/test.htm",
+		"/C/dev/scan-app/dev/flexBoxNotitie",
+		"/C/dev/scan-app/css/config.rb",
+		"/C/dev/scan-app/css/.gitignore",
+		"/C/dev/scan-app/build/.gitignore",
+		"/C/dev/scan-app/css/itp_base.scss",
+		"/C/dev/scan-app/build/basics.css",
+		"/Z/dev/intoparty-platform/src/intoparty/models.py",
+		"/Z/dev/intoparty-platform/src/api/serializers.py",
+		"/C/dev/scan-app/.git/modules/scan-app-core/description",
+		"/C/dev/scan-app/build/itp_base.css",
+		"/C/dev/scan-app/build/index.html",
+		"/C/dev/intoparty-platform/src/dashboard/css/_font-awesome.scss",
+		"/C/dev/scan-app/dev/css old/visitors.scss",
+		"/C/dev/scan-app/dev/css old/globals.scss",
+		"/C/dev/scan-app/main.js",
+		"/C/dev/scan-app/visitors.js",
+		"/C/dev/scan-app/deps note.txt",
+		"/C/dev/scan-app/.gitmodules",
+		"/C/dev/scan-app/build/visitors",
+		"/C/Users/Dirk-/Desktop/.gitignore",
+		"/C/dev/scan-app/build/css/basics.css",
+		"/C/dev/scan-app/build/globals.scss",
+		"/C/Users/Dirk-/Desktop/css/visitors.scss",
+		"/C/Users/Dirk-/Desktop/css/globals.scss",
+		"/C/dev/scan-app/css/theme_light.scss",
+		"/C/dev/scan-app/css/theme_dark.scss",
+		"/C/dev/scan-app/css/globals.scss",
+		"/C/dev/scan-app/.babelrc",
+		"/C/dev/scan-app/css/portrait.scss",
+		"/C/dev/scan-app/css/landscape.scss",
+		"/C/Users/Dirk-/.bashrc",
+		"/C/dev/scan-app/.git/config",
+		"/C/dev/scan-app/scan-app-core/.git",
+		"/C/dev/scan-app/build/js/visitors.js",
+		"/C/dev/scan-app/_main.js",
+		"/C/dev/scan-app/_visitors.js",
+		"/C/dev/scan-app/js.sh",
+		"/C/Users/Dirk-/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/dev/nativeScanApp/index.android.js",
+		"/C/dev/scan-app/build/css/.gitignore",
+		"/C/dev/scan-app/build/js/.gitignore",
+		"/C/dev/scan-app/js/components/details.js",
+		"/C/dev/scan-app/js/components/search.js",
+		"/C/dev/scan-app/js/components/settings.js",
+		"/C/dev/scan-app/js/components/login.js",
+		"/C/dev/scan-app/js/visitors.js",
+		"/C/dev/scan-app/build/css/globals.css",
+		"/C/dev/scan-app/js/components/subcomponents/loading.js",
+		"/C/dev/scan-app/js/helpers/_collections.js",
+		"/Z/dev/scan-app/js.sh",
+		"/Z/dev/scan-app/build/index.html",
+		"/C/dev/scan-app/js/package.json",
+		"/C/dev/scan-app/js/npm-debug.log",
+		"/C/Users/Dirk-/Documents/Rockstar Games/GTA V/settings.xml",
+		"/Z/dev/scan-app/js/helpers/_ajax.js",
+		"/Z/.bashrc",
+		"/Z/dev/scan-app/js/helpers/_settings.js",
+		"/Z/dev/intoparty-platform/init.sh"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"",
+			"C:\\dev\\scan-app, C:\\dev\\scan-app\\scan-app-core",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Field",
+			"Vakje",
+			"RenderVakje",
+			"border",
+			"eventOptionsNode",
+			"isChecked",
+			"-1",
+			"chooseEvent",
+			"preventDefault",
+			"itemContent",
+			"style",
+			"itemContent",
+			"button",
+			"listItem",
+			"button",
+			"buttons",
+			"console",
+			"eventProduct",
+			"isChecked[eventProduct.get('name')]",
+			"isChecked[product.get('name')]",
+			"isChecked",
+			"isChecked[product.get('name')]",
+			"renderEventOptions",
+			"eventOptionsNode",
+			"eventProductsNode",
+			"storage",
+			"chosenEventId",
+			"db",
+			"ws",
+			"throw",
+			"TypeError",
+			"throw",
+			"apiRequest",
+			"authToken",
+			"storage",
+			"console",
+			"request",
+			"db",
+			"initEvent",
+			"console",
+			"initEvent",
+			"console",
+			"getCollectionData",
+			"status",
+			"apiRequest",
+			"console",
+			"hover",
+			"loading",
+			"console",
+			"isValid",
+			"isValidGuest",
+			"getStyle",
+			"customStyles",
+			"var",
+			"validity",
+			"isValidGuest",
+			"isValidG",
+			"nextStatus",
+			"guest.get('products')",
+			"leftSideData",
+			"console",
+			"Ticket",
+			"isChecked",
+			"Checkbox",
+			"CheckBox",
+			"const",
+			"var",
+			"const",
+			"var",
+			"style",
+			"const",
+			"var",
+			"import",
+			"var",
+			"visitorsPadding",
+			"setNextStatus",
+			"amount",
+			"setNextStatus",
+			"Ticket",
+			"setNextStatus",
+			"nextStatus[guestProduct.get('id')]",
+			"Ticket",
+			"makeHTMLTickets",
+			"material_theme_contrast_mode",
+			"font_options",
+			"bold_folder_labels",
+			"always_show_minimap_viewport",
+			"line_padding_top",
+			"makeHTMLTickets",
+			"setNextStatus",
+			"handleClick",
+			"setNextStatus",
+			"nextStatus",
+			"eventOptions",
+			"ref",
+			"eventOptions",
+			"ref",
+			"input",
+			"ref",
+			"eventOptions",
+			"username",
+			"ref",
+			"eventOptions",
+			"ref",
+			"confirm",
+			"nextStatus",
+			"setNextStatus",
+			"selectAll",
+			"setNextStatus",
+			"s",
+			"nextStatus",
+			"getStyle",
+			"style",
+			"styleSheet",
+			"input",
+			"Bevestig",
+			"bevestig",
+			"bevest",
+			"ticketTitle",
+			"amount",
+			"selectAll",
+			"input",
+			"addButton",
+			"addButtons",
+			"ticket",
+			"leftSideData",
+			"check",
+			"input"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<Field />",
+			"Field",
+			"Vakje",
+			"input",
+			"product",
+			"isChecked[eventProduct.get('id')]",
+			"isChecked[product.get('id')]",
+			"isValidTicket",
+			"const",
+			"let",
+			"const",
+			"getStyle()",
+			"const",
+			"state",
+			"addButton",
+			"subHeader",
+			"rightSideData",
+			"leftSideData",
+			"this.state.style",
+			"ticketTitle",
+			"rightSideText",
+			"leftSideText",
+			"value",
+			"thin",
+			"style",
+			":",
+			"socket",
+			"export",
+			"('./scan-app-core/helpers/",
+			"('./scan-app-core/components/",
+			"'./scan-app-core/components/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Packages/Babel/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 473.0
+	},
+	"pinned_build_system": "",
+	"project": "na-speed-graph.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,30 @@
+{
+  "name": "na-speed-graph",
+  "version": "1.0.0",
+  "description": "Speed graph for ships in Naval Action",
+  "keywords": [
+    "Naval",
+    "Action",
+    "ships",
+    "speed"
+  ],
+  "main": "index.js",
+  "author": "DJ",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^1.0.2",
+    "react": "^0.14.3",
+    "react-chartjs": "^0.7.3",
+    "react-dom": "^0.14.7",
+    "react-router": "^1.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-loader": "^6.2.0",
+    "babel-plugin-transform-decorators-legacy": "^1.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "json-loader": "^0.5.2",
+    "webpack": "^1.12.9"
+  }
+}
